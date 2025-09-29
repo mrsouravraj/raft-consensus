@@ -1,0 +1,30 @@
+# Raft Consensus Algorithm - Educational Implementation
+# 
+# This is an educational implementation with minimal dependencies
+# to focus on the core Raft algorithm concepts.
+
+# No external dependencies required for core functionality!
+# The implementation uses only Python standard library modules.
+
+# Optional dependencies for development and testing:
+
+# Testing framework (optional - can run tests with unittest module)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# Code formatting and linting (optional)
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
+
+# Documentation generation (optional)
+# sphinx>=5.0.0
+# sphinx-rtd-theme>=1.0.0
+
+# Note: This educational implementation intentionally avoids external dependencies
+# to demonstrate that Raft can be implemented using only standard library
+# components. In production systems, you would typically use:
+# - Proper networking libraries (asyncio, twisted, etc.)
+# - Serialization frameworks (protobuf, msgpack, etc.)
+# - Persistent storage backends (rocksdb, leveldb, etc.)
+# - Monitoring and metrics libraries (prometheus_client, etc.)
